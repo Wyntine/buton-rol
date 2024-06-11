@@ -1,0 +1,24 @@
+{
+  "name": "buton-rol",
+  "version": "1.0.0",
+  "description": ".gg/altyapilar",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Wyntine",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "croxydb": "^0.0.24",
+    "discord-api-types": "^0.37.88",
+    "discord.js": "^14.15.3",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.2",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": ">=16.x"
+  }
+}
